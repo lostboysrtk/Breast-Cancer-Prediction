@@ -1,0 +1,8 @@
+numpy==1.23.4
+pandas==1.5.1
+pickle5==0.0.11
+plotly==5.11.0
+scikit_learn==1.2.2
+streamlit==1.18.1
+altair<5.0.0
+smmap==5.0.1 --hash=sha256:e6d8668fa5f93e706934a62d7b4db19c8d9eb8cf2adbb75ef1b675aa332b69da
